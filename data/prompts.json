@@ -1,0 +1,33 @@
+[
+  {
+    "id": "sci_01",
+    "category": "Astrophysics & Relativity",
+    "prompt": "The discovery of gravitational waves confirmed Einstein's general theory of relativity, revealing that massive cosmic events"
+  },
+  {
+    "id": "cs_02",
+    "category": "Computer Science & AI",
+    "prompt": "The primary advantage of quantum algorithms over classical computation is"
+  },
+  {
+    "id": "phil_03",
+    "category": "Philosophy of Mind",
+    "prompt": "Whether synthetic neural architectures can experience genuine consciousness remains"
+  },
+  {
+    "id": "fict_04",
+    "category": "Creative Narrative",
+    "prompt": "The ancient clockmaker examined the brass automaton closely, noticing an unfamiliar gear inscribed with"
+  },
+  {
+    "id": "hist_05",
+    "category": "History & Technology",
+    "prompt": "The invention of the printing press transformed European society by democratizing"
+  },
+  {
+    "id": "bio_06",
+    "category": "Synthetic Biology",
+    "prompt": "CRISPR gene editing allows molecular biologists to precisely modify genomic sequences, opening new possibilities for"
+  }
+]
+
